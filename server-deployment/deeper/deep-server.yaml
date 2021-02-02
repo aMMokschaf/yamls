@@ -24,5 +24,3 @@ spec:
     securityContext:
       allowPrivilegeEscalation: true
 #test2aaaaaaaaaa
-
-
